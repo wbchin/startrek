@@ -3,14 +3,26 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/profh/67-443-F20/StarTrek_starter/StarTrek.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=1605&amp;EndingColumnNumber=0&amp;EndingLineNumber=35&amp;StartingColumnNumber=0&amp;StartingLineNumber=35&amp;Timestamp=622042313.951882"
+         documentLocation = "file:///Users/waverlychin/Documents/67443/StarTrek_starter/StarTrek.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=1605&amp;EndingColumnNumber=28&amp;EndingLineNumber=37&amp;StartingColumnNumber=28&amp;StartingLineNumber=37&amp;Timestamp=687214360.256147"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/profh/67-443-F20/StarTrek_starter/StarTrek.playground#CharacterRangeLen=250&amp;CharacterRangeLoc=2643&amp;EndingColumnNumber=0&amp;EndingLineNumber=111&amp;StartingColumnNumber=0&amp;StartingLineNumber=92&amp;Timestamp=622042313.952055"
+         documentLocation = "file:///Users/waverlychin/Documents/67443/StarTrek_starter/StarTrek.playground#CharacterRangeLen=589&amp;CharacterRangeLoc=3071&amp;EndingColumnNumber=0&amp;EndingLineNumber=110&amp;StartingColumnNumber=33&amp;StartingLineNumber=91&amp;Timestamp=687214360.256485"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/waverlychin/Documents/67443/StarTrek_starter/StarTrek.playground#CharacterRangeLen=26&amp;CharacterRangeLoc=1670&amp;EndingColumnNumber=0&amp;EndingLineNumber=42&amp;StartingColumnNumber=1&amp;StartingLineNumber=41&amp;Timestamp=687214360.256741"
+         selectedRepresentationIndex = "0">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/waverlychin/Documents/67443/StarTrek_starter/StarTrek.playground#CharacterRangeLen=71&amp;CharacterRangeLoc=1742&amp;EndingColumnNumber=70&amp;EndingLineNumber=45&amp;StartingColumnNumber=44&amp;StartingLineNumber=44&amp;Timestamp=687214360.25695"
+         selectedRepresentationIndex = "0">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/waverlychin/Documents/67443/StarTrek_starter/StarTrek.playground#CharacterRangeLen=57&amp;CharacterRangeLoc=1815&amp;EndingColumnNumber=0&amp;EndingLineNumber=47&amp;StartingColumnNumber=1&amp;StartingLineNumber=46&amp;Timestamp=687214360.257127"
+         selectedRepresentationIndex = "0">
       </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
